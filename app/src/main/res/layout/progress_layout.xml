@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+              android:layout_width="match_parent"
+              android:layout_height="wrap_content">
+
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="80dp">
+
+        <com.example.herve.viewcontrolapplication.MySeekBar
+            android:id="@+id/progress_bar"
+            android:maxHeight="80dp"
+            android:minHeight="10dp"
+            style="@style/Base.Widget.AppCompat.ProgressBar.Horizontal"
+            android:layout_width="match_parent"
+            android:thumb="@drawable/prgs_progress"
+            android:progressDrawable="@drawable/progress"
+            android:layout_height="match_parent"/>
+
+        <!--<com.example.herve.viewcontrolapplication.MySeekBar-->
+            <!--android:maxHeight="80dp"-->
+            <!--android:minHeight="10dp"-->
+            <!--style="@style/Base.Widget.AppCompat.ProgressBar.Horizontal"-->
+            <!--android:layout_width="match_parent"-->
+            <!--android:thumb="@drawable/prgs_progress"-->
+            <!--android:progressDrawable="@drawable/progress_right"-->
+            <!--android:layout_height="match_parent"/>-->
+    </RelativeLayout>
+
+</LinearLayout>

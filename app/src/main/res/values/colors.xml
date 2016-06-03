@@ -1,0 +1,126 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <!--
+     ******************************************
+     *                     通用颜色
+    -->
+
+    <color name="bg_dark">#1c212d</color> <!-- 主文背景色 -->
+    <color name="bg_yellow">#f5dc56</color> <!-- 主文背景黄色 -->
+    <color name="bg_list_item">#1f2532</color> <!-- 列表背景色 -->
+    <color name="bg_191E28">#191E28</color> <!-- 主文背景色 -->
+    <color name="bg_1c212d">#1c212d</color> <!-- 背景色 -->
+    <color name="bg_14171f">#14171f</color> <!-- 输入框背景色 -->
+    <color name="bg_0c0e13">#0c0e13</color>
+    <color name="bg_657083">#657083</color>
+    <color name="bg_515c6f">#515c6f</color>
+    <color name="bg_536584">#536584</color>
+    <color name="bg_363e4b">#363e4b</color>
+    <color name="bg_1f2532">#1f2532</color>
+    <color name="bg_424b5a">#424b5a</color>
+    <color name="bg_7888a5">#7888a5</color>
+    <color name="bg_62b30a">#62b30a</color>
+    <color name="bg_417505">#417505</color>
+    <color name="bg_9fa2a6">#9fa2a6</color>
+    <color name="bg_101219">#101219</color>
+    <color name="bg_80a2dc">#80a2dc</color>
+    <color name="bg_333b47">#333b47</color>
+    <color name="bg_212734">#212734</color>
+    <color name="bg_07080c">#07080c</color>
+    <color name="c_1c212d">#1C212D</color> <!-- 文字色 -->
+    <color name="c_bbbce2">#BBBEC2</color> <!-- 主文字色 -->
+    <color name="c_424b5a">#424b5a</color> <!-- hint文字色 -->
+    <color name="c_f5dc56">#f5dc56</color> <!-- 主文背景黄色 -->
+    <color name="c_bba9a7">#BBA9A7</color> <!-- 主文字色 -->
+    <color name="c_10cd6e">#10cd6e</color>
+    <color name="click_highlighted_black">#1C212D</color>
+    <color name="click_highlighted_grey">#515C6F</color>
+
+    <!-- <color name="content_yellow">#F5A623</color>主文字色 -->
+    <color name="content_gray">#BBBEC2</color> <!-- 主文字色 -->
+    <color name="bg_red">#4FC5F3</color> <!-- 按钮背景色 -->
+    <color name="white">#ffffff</color> <!-- 白色 -->
+    <color name="red">#FF0000</color> <!-- 白色 -->
+    <color name="act_backgroud_white">#FFFFFF</color> <!-- 白色 -->
+    <color name="cut_line">#424b5a</color> <!-- 灰色 -->
+    <color name="film_progress_gray">#D2D2D2</color> <!-- 视频长度 -->
+    <color name="input_default_gray">#DEDEDE</color> <!-- 标题名称 -->
+    <color name="transparent">#00ffffff</color> <!-- 透明 -->
+    <!-- <color name="content_red1">#ED6078</color> -->
+    <color name="cut_line1">#D8D8D8</color> <!-- 灰色 -->
+    <color name="divider_color">#D8D8D8</color> <!-- 分割线颜色 -->
+    <color name="content_share">#8A7D7E</color> <!-- 灰色 -->
+    <color name="list_item_light_gray_bg">#F0F0F0</color> <!-- 灰色 -->
+    <color name="stand_out">#FB0502</color> <!-- 红色 -->
+    <color name="item_prompt">#B3B3B3</color> <!-- 红色 -->
+    <color name="mediacontroller_bg">#64151515</color>
+    <color name="mediacontroller_bg_pressed">#4FC5F3</color>
+    <color name="tv_list_notice_bar_bg">#bbbec2</color> <!-- 浅棕色 -->
+
+
+    <!--
+     *                     结束
+     ***********************************************
+    -->
+
+
+    <!-- dengjiaping -->
+    <!-- <color name="menu_color">#22A3D5</color> 菜单文字颜色 -->
+    <color name="list_selector">#E9EEF3</color> <!-- 模板选中后颜色 -->
+    <color name="item_bg">#FFF9F2</color> <!-- 白色 -->
+    <!-- <color name="item_text_color_selected">#504446</color> -->
+    <!-- <color name="item_text_color">#567477</color> -->
+    <color name="type_bg">#FFFFFF</color> <!--  -->
+    <!-- <color name="type_color">#836864</color> -->
+    <!-- <color name="type_color_select">#F5A623</color> -->
+    <color name="template_desc_color">#9E9E9E</color> <!-- 模板描述颜色 -->
+    <color name="listview_color_select">#F6F6F6</color> <!--  -->
+    <color name="backgroud_color">#FFF9F2</color> <!--  -->
+    <color name="transparent_black">#70B2B2B2</color>
+    <color name="black">#000000</color>
+    <color name="c_cccccc">#cccccc</color>
+    <color name="c_657082">#657082</color>
+    <color name="home_tip1_color">#848484</color> <!--  -->
+    <color name="upload_prompt_color">#A7A7A7</color> <!-- 上传音乐 提示颜色 -->
+    <color name="home_color">#848484</color> <!-- 上传音乐 提示颜色 -->
+
+    <color name="agreement_color">#00A4DF</color> <!-- 协议 -->
+    <!-- dengjiaping -->
+
+    <color name="music_color">#25B6ED</color>
+    <color name="music_search_color">#ADADAD</color>
+    <color name="music_singer_color">#979797</color>
+    <color name="home_draft">#ACB9C1</color>
+    <color name="home_draft_prompt">#59666D</color>
+    <color name="colorPrimary">#ACB9C1</color>
+    <color name="colorPrimaryDark">#ACB9C1</color>
+    <color name="colorAccent">#ACB9C1</color>
+    <!--
+     ******************************************
+     *                     通用颜色
+    -->
+
+    <color name="c_8e939a">#8e939a</color>
+    <color name="c_767e8a">#767e8a</color>
+    <color name="c_836864">#836864</color>
+    <color name="c_f5a623">#F5A623</color>
+    <color name="c_d58500">#D58500</color>
+    <color name="c_ff4468">#FF4468</color>
+    <color name="c_ffffff">#FFFFFF</color>
+    <color name="c_d2d2d2">#D2D2D2</color>
+    <color name="c_e5dfde">#E5DFDE</color>
+    <color name="c_ed6078">#ED6078</color>
+    <color name="c_4a4847">#4A4847</color>
+    <color name="c_262626">#262626</color>
+    <color name="c_d8d8d8">#D8D8D8</color>
+    <color name="c_b8b8b8">#B8B8B8</color>
+    <color name="c_f62d4f">#F62D4F</color>
+    <color name="c_e0e0e0">#61E0E0E0</color>
+    <color name="c_f3a536">#f3a536</color>
+    <!--
+     *                     结束
+     ***********************************************
+    -->
+
+</resources>
